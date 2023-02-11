@@ -5,7 +5,8 @@ For our group project in SOFTENG206, we used JavaFX to build a game application 
 ----
 
 **The start/loading page**
-<img width="841" alt="스크린샷 2023-02-11 오후 4 38 05" src="https://user-images.githubusercontent.com/90244113/218239793-34f50fd6-57c2-4494-a4a1-7a771a6a050a.png">
+
+<img width="830" alt="스크린샷 2023-02-11 오후 4 38 05" src="https://user-images.githubusercontent.com/90244113/218239827-fde8ab9c-05e3-403d-8132-50f42f372e0a.png">
 
 
 **Users are able to create new accounts which are saved locally**
