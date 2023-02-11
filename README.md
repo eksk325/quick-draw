@@ -1,4 +1,4 @@
-# SE206 Quick, Draw!
+# Quick, Draw! 🎨
 
 For our group project in SOFTENG206, we used JavaFX to build a game application that uses a deep learning model to recognise the user’s drawing and thus allow drawing practises to be done digitally in an engaging way. Our target users are teenagers, and hence tried to apply a young and colourful theme to our app design. 
 
@@ -6,7 +6,7 @@ For our group project in SOFTENG206, we used JavaFX to build a game application 
 
 **The start/loading page**
 
-<img width="830" alt="스크린샷 2023-02-11 오후 4 50 54" src="https://user-images.githubusercontent.com/90244113/218237879-2eb9e323-fda0-41c2-bef8-4fd0f2cce744.png">
+<img width="830" alt="스크린샷 2023-02-11 오후 4 50 54" src="https://user-images.githubusercontent.com/90244113/218237879-2eb9e323-fda0-41c2-Cancel changesbef8-4fd0f2cce744.png">
 
 **Users are able to create new accounts which are saved locally**
 
